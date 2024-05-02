@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangminh214" alt="dangminh214" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS, ReactJS, Python**
+- 🌱 I’m currently learning **NodeJS, ReactJS, Python, Pytorch**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dangminh214?tab=repositories](https://github.com/dangminh214?tab=repositories)
 
