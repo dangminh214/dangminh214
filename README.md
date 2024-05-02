@@ -22,7 +22,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://github.com/dangminh214" target="blank">
-    <img width="90" height="90" src="https://avatars.githubusercontent.com/u/51837721?s=400&u=2e9091cbb0d9449d3422424e23158331cde2e1a4&v=4" alt="dangminh214-github" />
+    <img width="90" height="90" src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="dangminh214-github" />
   </a>
   <a href="https://www.facebook.com/dangminh.nguyen.904" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="dangminh214-facebook" />
