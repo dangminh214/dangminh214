@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/dangminh214@gmail.com"] target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dangminh214@gmail.com" height="30" width="40" /></a>
-<a href="[https://fb.com/dangminhpro2k@yahoo.com.vn](https://www.facebook.com/dangminh.nguyen.904/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dangminhpro2k@yahoo.com.vn" height="30" width="40" /></a>
+<a href="[[https://linkedin.com/in/dangminh214@gmail.com](https://www.linkedin.com/in/dang-minh-nguyen-b61892155/)"] target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dangminh214@gmail.com" height="30" width="40" /></a>
+<a href="[https://www.facebook.com/dangminh.nguyen.904/](https://www.facebook.com/dangminh.nguyen.904/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dangminhpro2k@yahoo.com.vn" height="30" width="40" /></a>
 <a href="[https://instagram.com/dangminh______](https://www.instagram.com/dangminh______/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dangminh______" height="30" width="40" /></a>
 </p>
 
