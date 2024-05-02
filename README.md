@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyen, Dang Minh</h1>
+<h1 align="center">Hi 👋, I'm Nguyen, Dang Minh 🐉👨‍💻🧙‍♀️</h1>
 <h3 align="center">Computer Science Student at Darmstadt University of Applied Science - HDa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dangminh214&label=Profile%20views&color=0e75b6&style=flat" alt="dangminh214" /> </p>
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I love coding xD**
 
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">👾 Where to find me 👾</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
