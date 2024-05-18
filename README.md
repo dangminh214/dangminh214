@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen, Dang Minh 🐉👨‍💻🧙‍♀️</h1>
 <h3 align="center">Computer Science Student at Darmstadt University of Applied Science - HDa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dangminh214&label=Profile%20views&color=0e75b6&style=flat" alt="dangminh214" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangminh214" alt="dangminh214" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJS, ReactJS, Python, Pytorch**
