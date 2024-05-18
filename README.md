@@ -28,7 +28,7 @@
   <a href="https://www.instagram.com/dangminh______/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="dangminh214-instgram" />
   </a>
-  <a href="dangminh214@gmail.com" target="top">
+  <a href="[dangminh214@gmail.com](https://mail.google.com/mail/u/0/?hl=de#inbox?compose=new)" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="dangminh214-gmail" />
   </a>
 </div>
