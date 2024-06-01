@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nguyen, Dang Minh 🐉👨‍💻🧙‍♀️</h1>
+<h1 align="center">Hi 👋, I'm Nguyen, Dang Minh </h1>
 <h3 align="center">Computer Science Student at Darmstadt University of Applied Science - HDa</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangminh214" alt="dangminh214" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJS, ReactJS, Python, Pytorch**
 
@@ -19,14 +17,8 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/dangminh.nguyen.904" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="dangminh214-facebook" />
-  </a>
   <a href="https://www.linkedin.com/in/dang-minh-nguyen-b61892155/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="dangminh214-linkedin" />
-  </a>
-  <a href="https://www.instagram.com/dangminh______/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="dangminh214-instgram" />
   </a>
   <a href="mailto:dangminh214@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="dangminh214-gmail" />
@@ -64,9 +56,6 @@
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
