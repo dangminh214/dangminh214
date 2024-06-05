@@ -14,7 +14,6 @@
 - ⚡ Fun fact **I love coding xD**
 
 <h2 align="center">👾 Where to find me 👨‍💻</h2>
-![CatComputerGIF](https://github.com/dangminh214/dangminh214/assets/51837721/eb1defbc-0cbc-4a04-8cf3-a05816a02ad1)
 
 <br>
 <!-- https://icons8.com -->
