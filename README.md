@@ -24,6 +24,9 @@
   <a href="mailto:dangminh214@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="dangminh214-gmail" />
   </a>
+  <a href="https://github.com/dangminh214" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="dangminh214-github" />
+  </a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
