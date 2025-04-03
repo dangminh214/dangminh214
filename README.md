@@ -74,5 +74,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-plain-wordmark.svg" alt="Jupyter" width="40" height="40"/>
   </a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dangminh214&show_icons=true&locale=en&layout=compact" alt="dangminh214" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dangminh214&show_icons=true&locale=en" alt="dangminh214" /></p>
+
 
 
